@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="2000" height="4000" viewBox="0 0 2000 4000" 
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<style type="text/css">
+<![CDATA[
+
+]]>
+</style>
+
+<rect x="-1" y="-1" width="2002" height="4002" fill="#0F2540"/>
+<circle cx="600" cy="-599.9999999999999" r="848.528137423857" fill="#FAD689" id="sun_circle"/>
+<text text-anchor="middle-alignment" id="sun_name_cn" x="600px" y="100px" font-size="75px" fill="#0F2540" font-family="aerial">
+太阳
+</text>
+<text text-anchor="middle-alignment" id="sun_name_cn" x="600px" y="180px" font-size="75px" fill="#0F2540" font-family="aerial">
+Sun
+</text>
+<circle id="mercury_circle" cx="600px" cy="644.0178568423071px" r="73.7683964400542px" fill="#FFFFFB"/>
+<text text-anchor="end-alignment" id="mercury_name_cn" x="340" y="643.6073223223251px" font-size="50px" fill="white" font-family="aerial">
+水星
+</text>
+<text text-anchor="end-alignment" id="mercury_name_en" x="340" y="693.6073223223251px" font-size="50px" fill="white" font-family="aerial">
+Mercury
+</text>
+<circle id="venus_circle" cx="600px" cy="1051.3408971765439px" r="81.65929587555503px" fill="#EBB471"/>
+<text text-anchor="end-alignment" id="venus_name_cn" x="340" y="1053.5606624683955px" font-size="50px" fill="white" font-family="aerial">
+金星
+</text>
+<text text-anchor="end-alignment" id="venus_name_en" x="340" y="1103.5606624683955px" font-size="50px" fill="white" font-family="aerial">
+Venus
+</text>
+<circle id="earth_circle" cx="600px" cy="1262.3973946472215px" r="82.11497111053987px" fill="#00AA90"/>
+<text text-anchor="end-alignment" id="earth_name_cn" x="340" y="1264.7690516840682px" font-size="50px" fill="white" font-family="aerial">
+地球
+</text>
+<text text-anchor="end-alignment" id="earth_name_en" x="340" y="1314.7690516840682px" font-size="50px" fill="white" font-family="aerial">
+Earth
+</text>
+<circle id="moon_circle" cx="800px" cy="1262.3973946472215px" r="48.60112139353232px" fill="white"/>
+<text id="moon_name_cn" x="920" y="1261.6979553439876px" font-size="50px" fill="white" font-family="aerial">
+月球
+</text>
+<text id="moon_name_en" x="920" y="1311.6979553439876px" font-size="50px" fill="white" font-family="aerial">
+Moon
+</text>
+<circle id="mars_circle" cx="600px" cy="1536.6164906290178px" r="76.64123229181455px" fill="#C7802D"/>
+<text text-anchor="end-alignment" id="mars_name_cn" x="340" y="1537.1635680596225px" font-size="50px" fill="white" font-family="aerial">
+火星
+</text>
+<text text-anchor="end-alignment" id="mars_name_en" x="340" y="1587.1635680596225px" font-size="50px" fill="white" font-family="aerial">
+Mars
+</text>
+<circle id="asteroid belt_circle" cx="600px" cy="1925.5162483721178px" r="0.0px" fill="black"/>
+<text text-anchor="end-alignment" id="asteroid belt_name_cn" x="340" y="1900.5162483721178px" font-size="50px" fill="white" font-family="aerial">
+小行星带
+</text>
+<text text-anchor="end-alignment" id="asteroid belt_name_en" x="340" y="1950.5162483721178px" font-size="50px" fill="white" font-family="aerial">
+Asteroid Belt
+</text>
+<circle id="yipolis_circle" cx="800px" cy="1925.5162483721178px" r="40px" fill="white"/>
+<text id="yipolis_name_cn" x="920" y="1920.5162483721178px" font-size="50px" fill="white" font-family="aerial">
+驿宁
+</text>
+<text id="yipolis_name_en" x="920" y="1970.5162483721178px" font-size="50px" fill="white" font-family="aerial">
+Yipolis
+</text>
+<circle id="canaan_circle" cx="825px" cy="2045.5162483721178px" r="44.63836704602689px" fill="white"/>
+<text id="canaan_name_cn" x="945" y="2042.8354318951315px" font-size="50px" fill="white" font-family="aerial">
+迦南
+</text>
+<text id="canaan_name_en" x="945" y="2092.8354318951315px" font-size="50px" fill="white" font-family="aerial">
+Canaan
+</text>
+<circle id="jupiter_circle" cx="600px" cy="2336.971599909897px" r="103.10580959420787px" fill="#9B6E23"/>
+<text text-anchor="end-alignment" id="jupiter_name_cn" x="340" y="2346.3402031079663px" font-size="50px" fill="white" font-family="aerial">
+木星
+</text>
+<text text-anchor="end-alignment" id="jupiter_name_en" x="340" y="2396.3402031079663px" font-size="50px" fill="white" font-family="aerial">
+Jupiter
+</text>
+<path stroke="white" stroke-width="8" d="M467.4006981970407 2325.3706642106854 L492.30556564933437 2327.549557779377 M 732.5993018029593 2348.572535609109 L707.6944343506657 2346.393642040417 Z"/>
+<circle id="saturn_circle" cx="600px" cy="2734.5965463781977px" r="101.62240756549183px" fill="#FC9F4D"/>
+<text text-anchor="end-alignment" id="saturn_name_cn" x="340" y="2743.4706822333615px" font-size="50px" fill="white" font-family="aerial">
+土星
+</text>
+<text text-anchor="end-alignment" id="saturn_name_en" x="340" y="2793.4706822333615px" font-size="50px" fill="white" font-family="aerial">
+Saturn
+</text>
+<path stroke="white" stroke-width="8" d="M448.7143715569191 2775.133408345956 L497.0106628713725 2762.19245609083 M 751.2856284430809 2694.0596844104393 L702.9893371286275 2707.0006366655653 Z"/>
+<circle id="uranus_circle" cx="600px" cy="3187.3900562672698px" r="94.17164698957583px" fill="#A5DEE4"/>
+<text text-anchor="end-alignment" id="uranus_name_cn" x="340" y="3193.780605263795px" font-size="50px" fill="white" font-family="aerial">
+天王星
+</text>
+<text text-anchor="end-alignment" id="uranus_name_en" x="340" y="3243.780605263795px" font-size="50px" fill="white" font-family="aerial">
+Uranus
+</text>
+<path stroke="white" stroke-width="8" d="M578.4378197823588 3309.6752569268992 L582.779024224032 3285.055063101594 M 621.5621802176412 3065.1048556076403 L617.220975775968 3089.7250494329455 Z"/>
+<circle id="neptune_circle" cx="600px" cy="3479.1090366731914px" r="93.89719119164342px" fill="#58B2DC"/>
+<text text-anchor="end-alignment" id="neptune_name_cn" x="340" y="3485.4081004037394px" font-size="50px" fill="white" font-family="aerial">
+海王星
+</text>
+<text text-anchor="end-alignment" id="neptune_name_en" x="340" y="3535.4081004037394px" font-size="50px" fill="white" font-family="aerial">
+Neptune
+</text>
+<path stroke="white" stroke-width="8" d="M492.70188497049924 3417.16044107737 L514.3525200651102 3429.66044107737 M 707.2981150295008 3541.057632269013 L685.6474799348898 3528.557632269013 Z"/>
+
+</svg>
